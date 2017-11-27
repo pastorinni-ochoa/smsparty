@@ -10,3 +10,6 @@
 /test/version_tmp/
 /tmp/
 secrets.yml
+*.swp
+*.swo
+*.orig
